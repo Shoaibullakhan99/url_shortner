@@ -1,14 +1,14 @@
 {
   "name": "url_shortner",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a sample URL_Shortner",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shoaib ulla khan",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
